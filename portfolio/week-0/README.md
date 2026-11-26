@@ -8,8 +8,10 @@ My job was to create the team's portfolio folder structure in GitHub and bring t
 I was basicaly a team's "map" -- where to find what.
 
 You can check the README week-0 file here: 
+
 https://github.com/martin-chizhov/urbanstyle-marketing-data/blob/main/portfolio/week-0/README.md
 
 And the team work here:
+
 https://github.com/martin-chizhov/urbanstyle-marketing-data/tree/main
 
